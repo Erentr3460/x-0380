@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Create a professional construction company website with hero section featuring the logo, headline 'Sert Yapı Sistemi - Güvenilir İnşaat Çözümleri', subheadline, and call-to-action button",
+    "type": "feature",
+    "passes": true,
+    "id": 1
+  },
+  {
+    "description": "Add a services section with 4 main services: Bina Konstruksiyonu, Altyapı Projeleri, Teknik Danışmanlık, and Onarım & Bakım with icons and descriptions",
+    "type": "feature",
+    "passes": true,
+    "id": 2
+  },
+  {
+    "description": "Add an about section describing company expertise, experience, and commitment to quality with professional tone",
+    "type": "feature",
+    "passes": true,
+    "id": 3
+  },
+  {
+    "description": "Add a projects/portfolio section showcasing completed projects with images and descriptions",
+    "type": "feature",
+    "passes": true,
+    "id": 4
+  },
+  {
+    "description": "Add a contact section with contact information, email, phone, and a contact form with name, email, phone, message fields",
+    "type": "feature",
+    "passes": true,
+    "id": 5
+  },
+  {
+    "description": "Add footer with company info, quick links, services, contact info, and copyright - use brand colors (navy blue #1a3a52 and orange #ff8c00)",
+    "type": "feature",
+    "passes": true,
+    "id": 6
+  },
+  {
+    "description": "Ensure the design uses the logo brand colors (navy blue and orange), professional typography, and is fully responsive on mobile and desktop",
+    "type": "feature",
+    "passes": true,
+    "id": 7
+  }
+]
